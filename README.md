@@ -109,7 +109,7 @@ With Managed Access Control Services, organizations also benefit from reduced ma
 
 ## Why Businesses Choose J3KTechnologies  
 
-Organizations choose :contentReference[oaicite:6]{index=6} because of its commitment to delivering intelligent, scalable, and reliable security solutions. The focus is not just on installing systems but on building long-term security ecosystems that evolve with business needs.
+Organizations choose because of its commitment to delivering intelligent, scalable, and reliable security solutions. The focus is not just on installing systems but on building long-term security ecosystems that evolve with business needs.
 
 Key differentiators include:
 
